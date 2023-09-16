@@ -11,6 +11,6 @@
 * [全方位金流API技術文件](https://developers.ecpay.com.tw/)
 * [綠界科技 全方位(All In One)金流介接 Python SDK](https://github.com/ECPay/ECPayAIO_PYTHON)
 * [重要詞彙說明](https://developers.ecpay.com.tw/?p=2853)
-* [訂單參數](https://developers.ecpay.com.tw/?p=2862)
+* [訂單參數](https://developers.ecpay.com.tw/?p=2862) (看起來目前只支援新台幣！)
 * [測試介接資訊](https://developers.ecpay.com.tw/?p=2856)
 * [付款結果通知](https://developers.ecpay.com.tw/?p=2878)
